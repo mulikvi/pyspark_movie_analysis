@@ -21,6 +21,7 @@ This project showcases PySpark-based analysis of movie and review datasets. The 
 
 ## Datasets
 - TMDB Movies Dataset (Kaggle)
+- IMDB Movie Reviews Dataset (IEEE Dataport)
 
 ## Tools Used
 - PySpark
